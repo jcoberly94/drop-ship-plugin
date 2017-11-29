@@ -5,3 +5,5 @@ The Problem
 
 The Solution
 -WordPress plugin that utilizes Postmen API to gather accurate shipping costs for WooCommerce Products that are drop shipped from external locations. It allows user to specify case pack size if buyer is buying a product in bulk rather than single item purchases.
+
+API Account: https://www.postmen.com/
